@@ -6,9 +6,9 @@ Communicating insights with the correct visualizations.
 
 Process
 
-Download and connect with data in Tableau
-Analize the dataset and identify the different data types present 
-clean the dataset removing null values
+Download and connect with data in Tableau.
+Analize the dataset and identify the different data types present.
+clean the dataset removing null values.
 Build different visualizations to learn more about the dataset. 
 Define questions that would be answered using the features in the dataset.
 Identify trends.
