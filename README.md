@@ -34,9 +34,11 @@ With the aid of line charts and forecasting, less than 5million estimated deaths
 Challenges
 
 Finding the right Visualization to use to convey the results appropriately.
+
 Deciding what was necessary to put on the dashboard. 
 
 Future Goals
 
 Arrange the dashboards better.
+
 Look for better visual combinations to convey the results.
