@@ -1,4 +1,5 @@
 Project/Goals
+
 This project involved turning data into easily consumable visual insights, using Tableau. 
 It reqiured creating impactful dashboards that help stakeholders make decisions, based on a business questions.
 Communicating insights with the correct visualizations.
@@ -29,10 +30,12 @@ To understand the counrties in Africa that are most affected with TB, a geograph
  
 With the aid of line charts and forecasting, less than 5million estimated deaths would be recorded in the next 3 years whereas TB prevalence worldwide is etimated to  drop to less than 10 million. Regionally, each region's incident cases would countinue on the same trajectory as presently.
 
-Challenges 
+Challenges
+
 Finding the right Visualization to use to convey the results appropriately.
 Deciding what was necessary to put on the dashboard. 
 
 Future Goals
+
 Arrange the dashboards better.
 Look for better visual combinations to convey the results.
