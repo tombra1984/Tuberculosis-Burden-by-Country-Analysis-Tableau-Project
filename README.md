@@ -29,7 +29,7 @@ To know the Region that had the most TB Prevalence and deaths, a packed bubbles 
 
 To understand the counrties in Africa that are most affected with TB, a geographic map, bars and a heat map was used. These visualizations identified Nigeria as having the highest TB prevalence and deaths with South Africa coming a close second. Nigeria had an estimated 10 million people with TB and an estimated 4million deaths while South Africa had an estimated 2 million deaths and an estimated 7 million cases. A relationship was observed between TB deaths and HIV as higher deaths were associated with cases that had HIV positive status (e.g South Africa).
  
-With the aid of line charts and forecasting, less than 5million estimated deaths would be recorded in the next 3 years whereas TB prevalence worldwide is etimated to  drop to less than 10 million. Regionally, each region's incident cases would countinue on the same trajectory as presently.
+With the aid of line charts and forecasting, less than 5million estimated deaths would be recorded in the next 3 years whereas TB prevalence worldwide is estimated to  drop to less than 10 million. Regionally, each region's incident cases would continue on the same trajectory as presently.
 
 Challenges
 
