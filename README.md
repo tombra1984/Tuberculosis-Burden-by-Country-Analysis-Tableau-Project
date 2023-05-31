@@ -1,8 +1,6 @@
 Project/Goals
 
-This project involved turning data into easily consumable visual insights, using Tableau. 
-It reqiured creating impactful dashboards that help stakeholders make decisions, based on a business questions.
-Communicating insights with the correct visualizations.
+This project involved turning data derived from WHO about the Tuberculosis burden by country into easily consumable visual insights, using Tableau. It reqiured creating impactful dashboards that help stakeholders make decisions, based on business questions and communicating these insights with the correct visualizations.
 
 Process
 
