@@ -13,9 +13,9 @@ Identify trends.
 
 Results
 
-OPTION 2- Tuberculosis Burden by Country
+Tuberculosis Burden by Country
 
-There were three (4) main data questions 
+There were four (4) main data questions 
 1. Which country had the most TB prevalence and deaths worldwide
 2. Which Region/country had the most prevalence and deaths associated with TB
 3. Which Countries in Africa are most affected?
