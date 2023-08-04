@@ -21,7 +21,7 @@ There were four (4) main data questions
 3. Which Countries in Africa are most affected?
 4. What does the future hold for the world concerning TB?
 
-To answer the first question a map of the world highligthing the different countries, with their associated TB prevalence and deaths was made. It identified India as having the most TB prevalence with over 97 million estimated cases and about an estimated 10 million deaths during the time frame.
+To answer the first question, a map of the world highligthing the different countries with their associated TB prevalence and deaths was made. It identified India as having the most TB prevalence with over 97 million estimated cases and about an estimated 10 million deaths during the time frame.
 
 To know the Region that had the most TB Prevalence and deaths, a packed bubbles plot alongside a pie chart was made. These plots showed that South East Asia (SEA), had over 147 million estimated Prevalent cases and had a death profile of just over an estimated 17 million. However, Africa (AFR) which had a lower Prevalence of about an estimated 60 million had an almost equivalent death profile of about 16.7 million cases. 
 
